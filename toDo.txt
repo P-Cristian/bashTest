@@ -6,7 +6,7 @@ git clone ?
 git commit ?
 git fetch ?
 git gui ?
-git init ?  FIRST
+git init 1/2
 git log ?
 git merge ?
 git mv ?
@@ -15,7 +15,7 @@ git push ?
 git restore ?
 git revert ?
 git switch ?
-git config ?
+git config 1/2
 git filter-branches ?
 git whatchanged ?
 
