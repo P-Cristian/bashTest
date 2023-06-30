@@ -1,0 +1,24 @@
+git add ?
+git branch ?
+git checkout ?
+git cherry-pick ?
+git clone ?
+git commit ?
+git fetch ?
+git gui ?
+git init ?  FIRST
+git log ?
+git merge ?
+git mv ?
+git pull ?
+git push ?
+git restore ?
+git revert ?
+git switch ?
+git config ?
+git filter-branches ?
+git whatchanged ?
+
+
+
+
